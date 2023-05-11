@@ -1,4 +1,4 @@
 Inputs: RMH200SolidBRCA-Blend-T_S95_R1_001.fastq.gz & RMH200SolidBRCA-Blend-T_S95_R2_001.fastq
 Intervals file: BRCADirect.v1.0.bed.intervals
 
-Step one: 
+Step one: BWA-MEM
